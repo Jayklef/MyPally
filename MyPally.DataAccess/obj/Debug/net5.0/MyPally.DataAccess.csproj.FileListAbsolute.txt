@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\bin\Debug\net5.0\MyPally.DataAccess.deps.json
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\bin\Debug\net5.0\MyPally.DataAccess.dll
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\bin\Debug\net5.0\ref\MyPally.DataAccess.dll
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\bin\Debug\net5.0\MyPally.DataAccess.pdb
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\bin\Debug\net5.0\MyPally.Domain.dll
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\bin\Debug\net5.0\MyPally.Domain.pdb
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.AssemblyInfo.cs
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.csproj.CopyComplete
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.dll
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\ref\MyPally.DataAccess.dll
+C:\Users\PC\source\repos\MyPally\MyPally.DataAccess\obj\Debug\net5.0\MyPally.DataAccess.pdb

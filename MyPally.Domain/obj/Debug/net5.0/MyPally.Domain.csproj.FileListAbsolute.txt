@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\bin\Debug\net5.0\MyPally.Domain.deps.json
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\bin\Debug\net5.0\MyPally.Domain.runtimeconfig.json
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\bin\Debug\net5.0\MyPally.Domain.runtimeconfig.dev.json
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\bin\Debug\net5.0\MyPally.Domain.dll
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\bin\Debug\net5.0\ref\MyPally.Domain.dll
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\bin\Debug\net5.0\MyPally.Domain.pdb
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.dll
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\ref\MyPally.Domain.dll
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.pdb
+C:\Users\PC\source\repos\MyPally\MyPally.Domain\obj\Debug\net5.0\MyPally.Domain.genruntimeconfig.cache
